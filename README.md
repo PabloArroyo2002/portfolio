@@ -6,7 +6,7 @@
 - B.S., Aerospace Engineering | Massachusetts Institute of Technology (_May 2025_)
 
 ## Areas of Interest
-- Propulsion, Advanced Manufacturing, Structures, and Actuators
+- Propulsion, Advanced Manufacturing, Aero Structures, Energy Generation, and Actuators
 
 ## Professional Experience
 **Undergraduate Researcher @ MIT HAUS (_June 2023 - Present_)**
