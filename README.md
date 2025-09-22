@@ -36,7 +36,7 @@ ig# Aerospace Engineering Graduate
 ![Fuel Injectors]({{ "/assets/fuel-injector.jpg" | relative_url }})
 
 ### Deep Sea Soil Sampler
-- Designed and constructed a mechanically activated and actuated sediment collector used at a depth of 11 km for Victor Vescovo’s sea exploration. Used aluminum linkages and pulleys to efficiently transfer spring energy to a sample collector.
+- Designed and constructed a mechanically activated and actuated sediment collector used at a depth of 11 km following the Five Deeps Expedition. Used aluminum linkages and pulleys to efficiently transfer spring energy to a sample collector where electronics and hydraulics would fail under the pressure.
 - Calculated pressure plate area and geometry to avoid premature triggering from shocks and descent in the water column. Tested different scoop designs and end-caps to maximize the sample volume captured and retained.
 
 ![Challenger Deep Sample]({{ "/assets/challenger-deep-sample.jpg" | relative_url }})
