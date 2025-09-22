@@ -23,12 +23,12 @@
 **Engineering Intern @ Radia, Inc. (_June 2024 - August 2024_)**
 - Sized composite panels according to durability and deflection requirements while minimizing weight by creating a **MATLAB** model relating mass and deflection. Analyzed potential failure modes for composite panels reinforced by hat-stiffeners using hand calcs and relevant NACA literature.
 - Proposed a new fairing design and substantiated it with drag impact calculations and analysis on manufacturability. Conducted a trade study to determine ideal panel dimensions subject to transportation, weight, and assembly considerations. Advocated for these and other key design decisions during weekly meetings with other stakeholders.
-- Made a **CATIA** model using 3DXPERIENCE for my team’s structural concept while allowing for interaction with adjacent aircraft systems.
+- Made a **CATIA** model using **3DXPERIENCE** for my team’s structural concept while allowing for interaction with adjacent aircraft systems.
 
 ## Projects
 ### Home-Built Jet Engine
 - Developed a ceramic matrix composite that could be manufactured at home and withstand 2000 °C. Molded the composite around 3D printed PLA forms for easy reproducibility and consistency between mating surfaces upon assembly.
-- Milled different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan.
+- **Milled** different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan.
 - Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
 
 ![Clean Jet Engine]({{ "/assets/clean-jet-engine.jpg" | relative_url }})
@@ -44,7 +44,7 @@
 ![Soil Sampler Late]({{ "/assets/soil-sampler-late.jpg" | relative_url }})
 
 ### Dual Fluid Impeller System
-- Designed a fluid impeller and casing for metal and polymer SLS manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation. Used **CFD** to create an estimate of pressures and velocities for each impeller. 
+- Designed a fluid impeller and casing for metal and polymer SLS manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation. Used **CFD** to create an estimate of pressures and velocities for each impeller. Used a **data acquisition system** to characterize the pump and measure displacement near the critical speed of a rotor system.
 
 ![Pump Assembly]({{ "/assets/pump-assembly-4.jpg" | relative_url }})
 ![Impeller CFD]({{ "/assets/impeller-cfd.png" | relative_url }})
