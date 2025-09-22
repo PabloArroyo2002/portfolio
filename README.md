@@ -12,7 +12,7 @@
 **Undergraduate Researcher @ MIT HAUS (_June 2023 - Present_)**
 - Designed, assembled, and succesfully implemented a CO2 pressurization system to create foaming pellets at a new scale for additive manufacturing.
 - Demonstrated viability of increasing layer height on pile footing prints as a means of reducing print time while maintaining satisfactory performance. [Publication](https://doi.org/10.1007/978-3-031-77697-7_16)
-- Reduced part the mass of a HUD compliant roof design by 30% by using **SolidWorks FEA** to validate new geometries.
+- Reduced part the mass of a **HUD compliant** roof design by 30% by using **SolidWorks FEA** to validate new geometries.
 - Assisted fellow undergraduate researchers in BAAM use and validated new print surfaces.
 - Compiled relevant **ASTM** and **ISO** standards for preliminary characterization of our BAAM 3D printer.
 <!-- insert pictures here -->
@@ -47,6 +47,8 @@ manufacturing, navigating the challenge of uncertain achievable tolerances. Crea
 impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation.
 ![Pump Assembly](/assets/Pump Assembly 4.JPEG)
 ![Impeller CFD](/assets/Pumpal CFD.PNG)
+![Rotordynamics Test](Rotordynamics Lab 1.JPG)
+![Impeller Photograph](AM Impeller.png)
 
 ### Satellite Design and Analysis
 Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a
@@ -55,6 +57,10 @@ composites where appropriate to eliminate dangerous vibrational modes using Soli
 ![George CAD](/assets/More George.png)
 ![George FEA](/assets/George VIbe Test.png)
 
+### Canonical Heat Addition Case
+Produced a report discussing the canonical case of heat addition and removal from a stovepipe
+ramjet as part of Compressible Internal Flows coursework.
+
 
 ## Talks & Lectures
 - Guest Presentation: MIT HAUS First-of-Kind Prototypes - Dual Use Innovation Day, Spring 2025
@@ -62,7 +68,7 @@ composites where appropriate to eliminate dangerous vibrational modes using Soli
 
 ## Potential Future Projects
 **Manufacturing**
-- Assembleable minimal surfaces to guide fibers for the creation of dense 3D composites.
+- Assembleable minimal surfaces to guide fibers for the creation of dense 3D composites with complex shapes.
 - Expanding the range of particle velocity and mass flow rate through cold spray nozzles via revised geometries.
 
 **Robotics**
@@ -75,14 +81,20 @@ composites where appropriate to eliminate dangerous vibrational modes using Soli
 **Athletics**
 - Portable PSA-based hypoxicator and breathing system for altitude training on the go.
 - Replicate CO2 infusion from PET in PEBA for 3D printed shoe sole prototypes.
+![Hypoxicator Schematic](Hypoxicator Schematic.JPEG)
+![Spikes On Shoe](Spike Addition.JPEG)
+![Illustration of Sensitive Foot Areas](Shoe Ergonomics.JPG)
 
-Feel free to ask me about these or other ideas you may want to discuss.
+Ask me about these or other ideas you may want to discuss.
 
 ## Publications
 1. Perez, A.A., Arroyo, P., Sehnawi, K.H., Chandar, A.S., Hardt, D.E. (2025) Layer Height Treatments on Uniaxial Compression Performance of Industrial Large-Scale Additively Manufactured Polymer Composite Structures. In: Lopresto, V., Papa, I. (eds) Dynamic Response and Failure of Composite Materials. DRAF 2024. Lecture Notes in Mechanical Engineering. Springer, Cham. [https://doi.org/10.1007/978-3-031-77697-7_16]
 
 ## Other Projects
+I have made 
+
+### Artwork
 
 ## Appendix
 
-## Artwork
+
