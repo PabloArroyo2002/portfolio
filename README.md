@@ -1,7 +1,7 @@
 # Aerospace Engineering Graduate
 
 #### Technical Skills: SolidWorks, CATIA V6, Engineering Drawings, Python, MATLAB, MS Office
-#### Contact Me At: pablo.arroyo.2020@gmail.com
+#### [Email me](mailto:pabloarroyo@example.com)
 
 ## Education
 - B.S., Aerospace Engineering | Massachusetts Institute of Technology (_May 2025_)
