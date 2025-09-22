@@ -38,7 +38,7 @@
 - Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
 
 ![Clean Jet Engine]({{ "/assets/clean-jet-engine.jpg" | relative_url }})
-**All systems go?** The engine is almost ready to fire up, except for a missing battery to drive the ignition system.
+**All systems go?** The engine is almost ready to fire up, except for a missing battery to drive the ignition system and a clamp to restrain the burn chamber.
 
 ![Fire Exhaust Jet Engine]({{ "/assets/jet-fire-exhaust.JPEG" | relative_url }})
 **Running Hot:** Excessive liquid propane and help from a leaf blower push the jet engine beyond its optimal operating range after a successful test earlier in the day.
@@ -57,7 +57,7 @@
 **Fast Turnaround:** This sample was in Texas within a month of us shipping out the first prototype, and taught us that the floor in the Mariana Trench was soft, informing the design for the next set of samplers.
 
 ![Soil Sampler Early]({{ "/assets/soil-sampler-early.jpg" | relative_url }})
-**Informed Design:** Better understanding the challenge of dropping into the ocean and descent, these samplers were calibrated in a pool to avoid misfires. The amount of material captured was also improved by the addition of relief vents at the top of the tube, allowing water to flow through the snapping sampler claw.
+**Informed Design:** With a better understanding of the challenge of dropping into the ocean and descending, these samplers were calibrated in a pool to avoid misfires. The amount of material captured was also improved by the addition of relief vents at the top of the tube, allowing water to flow through the snapping sampler claw.
 
 ![Soil Sampler Late]({{ "/assets/soil-sampler-late.jpg" | relative_url }})
 **Raising the bar:** The demand for stratified soil samples forced an abandonment of the claw mechanism and motivated a design that would push the sample collector perpendicular to the silt upon which it rested.
@@ -66,10 +66,16 @@
 - Designed a fluid impeller and casing for metal and polymer SLS manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation. Used **CFD** to create an estimate of pressures and velocities for each impeller. Used a **data acquisition system** to characterize the pump and measure displacement near the critical speed of a rotor system.
 
 ![Pump Assembly]({{ "/assets/pump-assembly-4.jpg" | relative_url }})
+**Tight Seals:** Despite the need for pipes to reduce the fluids spilling on the table, the use of off-the-shelf O-rings against machined surfaces kept leaks at a minimum. Thrust created by the pressure rise around the impellers was substantial and hurt the alignment of the axle relative to the pump casings, causing more leaks than expected. The ball bearings on the far right of the axle served to resist this thrust, but did not negate the torque created around each of the feet on which the pump casings were mounted.
 
 ![Impeller CFD]({{ "/assets/impeller-cfd.png" | relative_url }})
+**CFD Modeling:** The force of fluid pushing against blades in impellers cannot be ignored; however, the drops in pressure near the inlet cause cavitation that affects performance much more than any deflection of the blades. CFD failed to capture this effectively because it failed to converge for cavitating cases.  
+
 ![Rotordynamics Test]({{ "/assets/rotordynamics-lab-1.jpg" | relative_url }})
+**Safety Margin:** Laser-based measurements showed no concerning increases in whirl amplitude as the motor approached 3500 rpm. These velocity sweeps did reveal the importance of lubrication on seals and journal bearings, as one of the journal bearings seized due to thermal expansion. Heating was visible through the use of an infrared camera, although an infrared thermometer could have revealed the same phenomenon at a lower resolution.
+
 ![Impeller Photograph]({{ "/assets/am-impeller.png" | relative_url }})
+**Early Development:** Initial trials of the additively manufactured water impeller revealed poor efficiency, although not drastically different from the baseline impeller. Although not understood at the time, later use of transparent pipes would reveal that cavitation was likely occurring even below 1500 rpm. During final trials, the blade count of 6 created much less cavitation than other designs with more blades, allowing for higher efficiency at high rpms, albeit only in relative terms. 
 
 ### Satellite Design and Analysis
 - Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using **SolidWorks FEA** tools. 
@@ -117,6 +123,8 @@ Ask me about these or other ideas you may want to discuss.
 
 ## Publications
 1. Perez, A.A., Arroyo, P., Sehnawi, K.H., Chandar, A.S., Hardt, D.E. (2025) Layer Height Treatments on Uniaxial Compression Performance of Industrial Large-Scale Additively Manufactured Polymer Composite Structures. In: Lopresto, V., Papa, I. (eds) Dynamic Response and Failure of Composite Materials. DRAF 2024. Lecture Notes in Mechanical Engineering. Springer, Cham. [https://doi.org/10.1007/978-3-031-77697-7_16]
+
+---
 
 ## Other Projects
 I have also worked on developing a few automotive concepts, as shown below:
