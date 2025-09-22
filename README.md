@@ -10,7 +10,7 @@ ig# Aerospace Engineering Graduate
 
 ## Professional Experience
 **Undergraduate Researcher @ MIT HAUS (_June 2023 - Present_)**
-- Designed, assembled, and successfully implemented a CO₂ pressurization system to create foaming pellets at a new scale for additive manufacturing.
+- Designed, assembled, and successfully implemented a CO₂ pressurization system to create foaming pellets at a new scale for additive manufacturing. Paper coming soon.
 - Demonstrated viability of increasing layer height on pile footing prints as a means of reducing print time while maintaining satisfactory performance. [Publication](https://doi.org/10.1007/978-3-031-77697-7_16)
 - Reduced the mass of a **HUD compliant** roof design by 30% by using **SolidWorks FEA** to validate new geometries.
 - Assisted fellow undergraduate researchers in BAAM use and validated new print surfaces.
@@ -49,14 +49,19 @@ Designed a fluid impeller and casing for metal and polymer SLS manufacturing, na
 
 ### Satellite Design and Analysis
 Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. 
+[Download the report]({{ "/16_83_Structures_final.pdf" | relative_url }})
+[Download the report]({{ "/GEORGE STRUCTURES CONOPS - Final.pdf" | relative_url }})
+
 Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Designed a voltage divider and Arduino code to calculate the salinity of the water into which the probe is dropped by using spaced electrodes.
+[Download the report]({{ "/Proposal_for_Flight_Demonstration__Final_Draft.pdf" | relative_url }})
+
 ![George CAD]({{ "/assets/more-george.png" | relative_url }})
 ![George FEA]({{ "/assets/george-vibe-test.png" | relative_url }})
 ![Probe PCB]({{ "/assets/83-probe.jpg" | relative_url }})
 ![Probe Complete]({{ "/assets/83-probe-assembled.jpg" | relative_url }})
 
 ### Canonical Heat Addition Case
-Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented by Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime and validated it against Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
+Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented in Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime and validated it against Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
 
 ![Shock Measurement Angles]({{ "/assets/ansys-validation.png" | relative_url }})
 
