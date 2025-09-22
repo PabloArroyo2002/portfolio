@@ -29,7 +29,7 @@
 Developed a ceramic matrix composite that could be manufactured at home and withstand 2000 °C. Molded the composite around 3D printed PLA forms for easy reproducibility and consistency between mating surfaces upon assembly. Milled different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan. Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
 
 ![Clean Jet Engine]({{ "/assets/clean-jet-engine.jpg" | relative_url }})
-![Fire Exhaust Jet Engine]({{ "/assets/jet-fire-exhaust.jpg" | relative_url }})
+![Fire Exhaust Jet Engine]({{ "/assets/jet-fire-exhaust.JPEG" | relative_url }})
 ![Fuel Injectors]({{ "/assets/fuel-injector.jpg" | relative_url }})
 
 ### Deep Sea Soil Sampler
@@ -48,8 +48,8 @@ Designed a fluid impeller and casing for metal and polymer SLS manufacturing, na
 ![Impeller Photograph]({{ "/assets/am-impeller.png" | relative_url }})
 
 ### Satellite Design and Analysis
-Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission.
-
+Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. 
+Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Created a circuit to calculate the salinity of the water by using spaced electrodes as part of a voltage divider circuit.
 ![George CAD]({{ "/assets/more-george.png" | relative_url }})
 ![George FEA]({{ "/assets/george-vibe-test.png" | relative_url }})
 ![Probe PCB]({{ "/assets/83-probe.jpg" | relative_url }})
@@ -121,6 +121,7 @@ I have also worked on developing a few automotive concepts, as shown below:
 
 ## Appendix
 ![Solar Accumulator]({{ "/assets/solar-accumulator.jpg" | relative_url }})
+
 ![AM Stairs]({{ "/assets/am-stairs.jpg" | relative_url }})
 ![AM Trusses]({{ "/assets/am-trusses.jpg" | relative_url }})
 ![Anisotropic Considerations]({{ "/assets/anisotropic-considerations.jpg" | relative_url }})
@@ -133,13 +134,19 @@ I have also worked on developing a few automotive concepts, as shown below:
 ![Test Articles 2]({{ "/assets/test-articles-2.jpg" | relative_url }})
 ![Test Articles Envisioned]({{ "/assets/test-articles-envisioned.png" | relative_url }})
 ![Baldwin Machine Pile Footing Test]({{ "/assets/baldwin-test.jpg" | relative_url }})
+
 ![Cooling Channel]({{ "/assets/cooling-channel.png" | relative_url }})
 ![Dual Pump CAD]({{ "/assets/dual-pump-cad.png" | relative_url }})
 ![Pump Characteristic]({{ "/assets/pump-characterization.png" | relative_url }})
+![Engineering Drawing]({{ "/assets/engineering-drawing-1.jpg" | relative_url }})
+
 ![PLA Molds for Burn Chamber]({{ "/assets/pla-molds.jpg" | relative_url }})
 ![V2 Burn Chamber and Cart]({{ "/assets/jet-engine-early.jpg" | relative_url }})
 ![Jet Engine Test Stand Welding]({{ "/assets/jet-frame.jpg" | relative_url }})
+![Ignition Coil Test]({{ "/assets/ignition-coil-circuit.jpg | relative_url }})
+
 ![Vaporfly 2 Repair]({{ "/assets/vaporfly-2-repair.jpg" | relative_url }})
+
 ![CC V2]({{ "/assets/cc-v2.jpg" | relative_url }})
 ![CC V2 Idea]({{ "/assets/cc-v2-idea.jpg" | relative_url }})
 ![Linear Filter Combos]({{ "/assets/linear-filter-combos.jpg" | relative_url }})
