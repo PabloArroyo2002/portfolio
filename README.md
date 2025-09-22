@@ -49,11 +49,11 @@ Designed a fluid impeller and casing for metal and polymer SLS manufacturing, na
 
 ### Satellite Design and Analysis
 Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. 
-[Download the report]({{ "/16_83_Structures_final.pdf" | relative_url }})
-[Download the report]({{ "/GEORGE STRUCTURES CONOPS - Final.pdf" | relative_url }})
+[Download the preliminary report]({{ "/assets/documents/16_83_Structures_final.pdf" | relative_url }})
+[Download the risk mitigation report]({{ "/assets/documents/Structures Slide Deck Risk Mitigation.pdf" | relative_url }})
 
 Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Designed a voltage divider and Arduino code to calculate the salinity of the water into which the probe is dropped by using spaced electrodes.
-[Download the report]({{ "/Proposal_for_Flight_Demonstration__Final_Draft.pdf" | relative_url }})
+[Download the report]({{ "/assets/documents/Proposal_for_Flight_Demonstration__Final_Draft.pdf" | relative_url }})
 
 ![George CAD]({{ "/assets/more-george.png" | relative_url }})
 ![George FEA]({{ "/assets/george-vibe-test.png" | relative_url }})
