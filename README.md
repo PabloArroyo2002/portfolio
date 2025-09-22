@@ -1,6 +1,7 @@
 # Aerospace Engineering Graduate
 
 #### Technical Skills: SolidWorks, CATIA V6, Engineering Drawings, Python, MATLAB, MS Office
+#### Contact Me At: pablo.arroyo.2020@gmail.com
 
 ## Education
 - B.S., Aerospace Engineering | Massachusetts Institute of Technology (_May 2025_)
@@ -52,11 +53,11 @@
 ![Impeller Photograph]({{ "/assets/am-impeller.png" | relative_url }})
 
 ### Satellite Design and Analysis
-- Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. 
+- Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using **SolidWorks FEA** tools. 
 [Download the preliminary report]({{ "/assets/documents/16_83_Structures_final.pdf" | relative_url }})
 [Download the risk mitigation report]({{ "/assets/documents/Structures Slide Deck Risk Mitigation.pdf" | relative_url }})
 
-- Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Designed a voltage divider and Arduino code to calculate the salinity of the water into which the probe is dropped by using spaced electrodes.
+- Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Designed a voltage divider and **Arduino** code to calculate the salinity of the water into which the probe is dropped by using spaced electrodes.
 [Download the report]({{ "/assets/documents/Proposal_for_Flight_Demonstration__Final_Draft.pdf" | relative_url }})
 
 ![George CAD]({{ "/assets/more-george.png" | relative_url }})
