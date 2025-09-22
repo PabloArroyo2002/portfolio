@@ -62,6 +62,7 @@ composites where appropriate to eliminate dangerous vibrational modes using Soli
 
 **Athletics**
 - Portable PSA-based hypoxicator and breathing system for altitude training on the go.
+- Replicate CO2 infusion from PET in PEBA for 3D printed shoe sole prototypes.
 
 Feel free to ask me about these or other ideas you may want to discuss.
 
