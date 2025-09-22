@@ -56,7 +56,7 @@ Also created a probe to measure the salinity of a pool into which the satellite 
 ![Probe Complete]({{ "/assets/83-probe-assembled.jpg" | relative_url }})
 
 ### Canonical Heat Addition Case
-Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented by Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime, as well as shock angles validated with Ansys.
+Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented by Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime, as well as shock angles validated with Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
 
 ![Shock Measurement Angles]({{ "/assets/ansys-validation.png" | relative_url }})
 
