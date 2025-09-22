@@ -114,7 +114,7 @@ I have also worked on developing a few automotive concepts, as shown below:
 ![Ferrari 330 P4]({{ "/assets/ferrari-330p4.jpg" | relative_url }})
 ![Bugatti Painting]({{ "/assets/bugatti-painting.jpg" | relative_url }})
 ![Aston Martin Rear]({{ "/assets/aston-martin-rear.png" | relative_url }})
-![Hap Stern Commission]({{ "/assets/hap-stern-commission.jpg" | relative_url }})
+![Hap Stern Commission]({{ "/assets/hap-stern-comission.jpg" | relative_url }})
 ![St. Mark's Campus]({{ "/assets/stmarks-campus.jpg" | relative_url }})
 ![Violin Oil Painting]({{ "/assets/violin-in-oil.jpg" | relative_url }})
 ![Still Life]({{ "/assets/miscellaneous-1.jpg" | relative_url }})
