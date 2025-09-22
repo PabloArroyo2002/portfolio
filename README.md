@@ -16,7 +16,8 @@
 - Assisted fellow undergraduate researchers in BAAM use and validated new print surfaces.
 - Compiled relevant **ASTM** and **ISO** standards for preliminary characterization of our BAAM 3D printer.
 <!-- insert pictures here -->
-![CO2 Infuser](/assets/CO2 Infusion System.jpeg)
+![CO2 Infuser](/assets/CO2 Infusion System.JPEG)
+![MIT HAUS Curved](/assets/MIT HAUS Curved.png)
 
 **Engineering Intern @ Radia, Inc. (_June 2024 - August 2024_)**
 - Sized composite panels according to durability and deflection requirements while minimizing weight by creating a **MATLAB** model relating mass and deflection. Analyzed half a dozen potential failure modes for composite panels reinforced by hat-stiffeners using hand calcs and relevant NACA literature.
@@ -27,6 +28,7 @@
 ### Home-Built Jet Engine
 Developed a ceramic matrix composite that could be manufactured at home and withstand 2000 °C. Molded the composite around 3D printed PLA forms for easy reproducibility and consistency between mating surfaces upon assembly. Milled different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan. Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
 <!-- insert pictures, descriptions here -->
+![Clean Jet Engine](/assets/Clean Jet Engine.JPEG)
 
 ### Deep Sea Soil Sampler
 Designed and constructed a mechanically activated and actuated sediment collector used at a
@@ -44,6 +46,9 @@ impeller and casings. Achieved the lowest leakage of all six teams in the class 
 Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a
 Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected
 composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools.
+![George CAD](/assets/More George.png)
+![George FEA](/assets/George VIbe Test.png)
+
 
 ## Talks & Lectures
 - Guest Presentation: MIT HAUS First-of-Kind Prototypes - Dual Use Innovation Day, Spring 2025
