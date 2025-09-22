@@ -1,4 +1,4 @@
-ig# Aerospace Engineering Graduate
+# Aerospace Engineering Graduate
 
 #### Technical Skills: SolidWorks, CATIA V6, Engineering Drawings, Python, MATLAB, MS Office
 
