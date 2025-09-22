@@ -143,9 +143,9 @@ I have also worked on developing a few automotive concepts, as shown below:
 ![PLA Molds for Burn Chamber]({{ "/assets/pla-molds.jpg" | relative_url }})
 ![V2 Burn Chamber and Cart]({{ "/assets/jet-engine-early.jpg" | relative_url }})
 ![Jet Engine Test Stand Welding]({{ "/assets/jet-frame.jpg" | relative_url }})
-![Ignition Coil Test]({{ "/assets/ignition-coil-test.png | relative_url }})
-![Pressure regulation]({{ "/assets/pressure-regulation.png | relative_url }})
-![Self-Sustain]({{ "/assets/self-sustain-1.png | relative_url}})
+![Ignition Coil Test]({{ "/assets/ignition-coil-test.png" | relative_url }})
+![Pressure regulation]({{ "/assets/pressure-regulation.png" | relative_url }})
+![Self-Sustain]({{ "/assets/self-sustain-1.png" | relative_url}})
 
 ![Vaporfly 2 Repair]({{ "/assets/vaporfly-2-repair.jpg" | relative_url }})
 
