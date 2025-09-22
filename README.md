@@ -47,13 +47,15 @@ manufacturing, navigating the challenge of uncertain achievable tolerances. Crea
 impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation.
 ![Pump Assembly](/assets/Pump Assembly 4.JPEG)
 ![Impeller CFD](/assets/Pumpal CFD.PNG)
-![Rotordynamics Test](Rotordynamics Lab 1.JPG)
+![Rotordynamics Test](Rotordynamics Lab 1.JPEG)
 ![Impeller Photograph](AM Impeller.png)
 
 ### Satellite Design and Analysis
 Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a
 Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected
-composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools.
+composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. Also
+created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa
+mission.
 ![George CAD](/assets/More George.png)
 ![George FEA](/assets/George VIbe Test.png)
 
@@ -91,8 +93,21 @@ Ask me about these or other ideas you may want to discuss.
 1. Perez, A.A., Arroyo, P., Sehnawi, K.H., Chandar, A.S., Hardt, D.E. (2025) Layer Height Treatments on Uniaxial Compression Performance of Industrial Large-Scale Additively Manufactured Polymer Composite Structures. In: Lopresto, V., Papa, I. (eds) Dynamic Response and Failure of Composite Materials. DRAF 2024. Lecture Notes in Mechanical Engineering. Springer, Cham. [https://doi.org/10.1007/978-3-031-77697-7_16]
 
 ## Other Projects
-I have made 
-
+I have also worked on developing a few automotive concepts, as shown below:
+![Istioforo 1](Istioforo 1.jpg)
+![Istioforo Concepts](Istioforo Concepts.jpg)
+![Mixed Istioforo Concept](Mixed Istioforo Concept.jpg)
+![Istioforo Lean](Istioforo Lean.jpg)
+![Istioforo Early](Istioforo Early.jpg)
+![Istioforo Cooling](Istioforo Cooling.jpg)
+![Istioforo Mixed](Istioforo Mixed.jpg)
+![Mixed Concepts](Mixed Concepts.jpg)
+![Testarossa Iteration](Testarossa Iteration.jpg)
+![Miura Lookalike](Miura Lookalike.jpg)
+![drkside design front view](drkside design front view.jpg)
+![drkside design rear view](drkside design rear view.jpg)
+![drkside design side view](drkside design side view.jpg)
+![drkside design top view](drkside design top view.jpg)
 ### Artwork
 
 ## Appendix
