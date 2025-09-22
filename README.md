@@ -56,7 +56,7 @@ Also created a probe to measure the salinity of a pool into which the satellite 
 ![Probe Complete]({{ "/assets/83-probe-assembled.jpg" | relative_url }})
 
 ### Canonical Heat Addition Case
-Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented by Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime, as well as shock angles validated with Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
+Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented by Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime and validated it against Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
 
 ![Shock Measurement Angles]({{ "/assets/ansys-validation.png" | relative_url }})
 
@@ -92,8 +92,8 @@ Ask me about these or other ideas you may want to discuss.
 I have also worked on developing a few automotive concepts, as shown below:
 
 ![Istioforo 1]({{ "/assets/istioforo-1.jpg" | relative_url }})
-![Istioforo Concepts]({{ "/assets/istioforo-concepts.jpg" | relative_url }})
-![Mixed Istioforo Concept]({{ "/assets/mixed-istioforo-concept.jpg" | relative_url }})
+![Istioforo Concepts]({{ "/assets/istioforo-concepts.JPG" | relative_url }})
+![Mixed Istioforo Concept]({{ "/assets/mixed-istioforo-concepts.JPG" | relative_url }})
 ![Istioforo Lean]({{ "/assets/istioforo-lean.jpg" | relative_url }})
 ![Istioforo Early]({{ "/assets/istioforo-early.jpg" | relative_url }})
 ![Istioforo Cooling]({{ "/assets/istioforo-cooling.jpg" | relative_url }})
