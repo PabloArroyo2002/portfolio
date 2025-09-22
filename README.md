@@ -1,7 +1,7 @@
 # Aerospace Engineering Graduate
 
-#### Technical Skills: SolidWorks, CATIA V6, Engineering Drawings, Python, MATLAB, MS Office
-#### [Email me](mailto:pabloarroyo@example.com)
+#### Technical Skills: SolidWorks, CATIA V6, Engineering Drawings, Python, MATLAB, MS Office, Soldering, Basic Circuitry
+#### [Email me](mailto:pablo.arroyo.2020@gmail.com)
 
 ## Education
 - B.S., Aerospace Engineering | Massachusetts Institute of Technology (_May 2025_)
@@ -10,7 +10,7 @@
 - Propulsion, Advanced Manufacturing, Aero Structures, Energy Generation, and Actuators
 
 ## Professional Experience
-**Undergraduate Researcher @ MIT HAUS (_June 2023 - Present_)**
+### Undergraduate Researcher @ MIT HAUS (_June 2023 - Present_)
 - Designed, assembled, and successfully implemented a CO₂ pressurization system to create foaming pellets at a new scale for additive manufacturing. Paper coming soon.
 - Demonstrated viability of increasing layer height on pile footing prints as a means of reducing print time while maintaining satisfactory performance. [Publication](https://doi.org/10.1007/978-3-031-77697-7_16)
 - Reduced the mass of a **HUD compliant** roof design by 30% by using **SolidWorks FEA** to validate new geometries.
@@ -18,10 +18,13 @@
 - Compiled relevant **ASTM** and **ISO** standards for preliminary characterization of our BAAM 3D printer.
 
 ![CO2 Infuser]({{ "/assets/co2-infusion-system.jpg" | relative_url }})
+**CO2 Dilution System:** Polymer pellets absorb carbon dioxide while safely residing in a hydraulic accumulator surrounded by a ballistic blanket. 
 ![Demonstration of floor scale]({{ "/assets/scale-example-floor.png" | relative_url }})
+**Scale of our Research:** The size of the floor, footings, and concrete bags provides a sense of the scale MIT HAUS regularly operates at.
 ![MIT HAUS Curved]({{ "/assets/mit-haus-curved.png" | relative_url }})
+**Pushing Boundaries** Use of curvature, trusses, and hierarchy allows us to leverage additive manufacturing to create robust yet lightweight structures.
 
-**Engineering Intern @ Radia, Inc. (_June 2024 - August 2024_)**
+### Engineering Intern @ Radia, Inc. (_June 2024 - August 2024_)
 - Sized composite panels according to durability and deflection requirements while minimizing weight by creating a **MATLAB** model relating mass and deflection. Analyzed potential failure modes for composite panels reinforced by hat-stiffeners using hand calcs and relevant NACA literature.
 - Proposed a new fairing design and substantiated it with drag impact calculations and analysis on manufacturability. Conducted a trade study to determine ideal panel dimensions subject to transportation, weight, and assembly considerations. Advocated for these and other key design decisions during weekly meetings with other stakeholders.
 - Made a **CATIA** model using **3DXPERIENCE** for my team’s structural concept while allowing for interaction with adjacent aircraft systems.
@@ -74,18 +77,18 @@
 - Guest Presentation: MIT HAUS First-of-Kind Prototypes - Dual Use Innovation Day, Spring 2025
 
 ## Potential Future Projects
-**Manufacturing**
+### Manufacturing
 - Assembleable minimal surfaces to guide fibers for the creation of dense 3D composites with complex shapes.
 - Expanding the range of particle velocity and mass flow rate through cold spray nozzles via revised geometries.
 
-**Robotics**
+### Robotics
 - MEMS cooling system to minimize heat buildup despite smaller apertures achieved through higher back pressure. May enable improvements in air flow following Moore's Law.
 - Additively manufactured NiTi compliant mechanisms for high-load applications.
 
-**Propulsion**
+### Propulsion
 - Plasma stabilization of high Mach combustion for reduced static temperature rise. Enable the use of less exotic alloys and composites in turbines.
 
-**Athletics**
+### Athletics
 - Portable PSA-based hypoxicator and breathing system for altitude training on the go.
 - Replicate CO₂ infusion from PET in PEBA for 3D printed shoe sole prototypes.
 
