@@ -18,11 +18,13 @@
 - Compiled relevant **ASTM** and **ISO** standards for preliminary characterization of our BAAM 3D printer.
 
 ![CO2 Infuser]({{ "/assets/co2-infusion-system.jpg" | relative_url }})
-**CO2 Dilution System:** Polymer pellets absorb carbon dioxide while safely residing in a hydraulic accumulator surrounded by a ballistic blanket. 
+**CO2 Dilution System:** Polymer pellets absorb carbon dioxide while safely residing in a hydraulic accumulator surrounded by a ballistic blanket. Revised designs will swap the hydraulic accumulator for a reusable and lighter solution. Experimentation with polymers other than PET and the use of additives may also produce foam with a higher expansion ratio.
+
 ![Demonstration of floor scale]({{ "/assets/scale-example-floor.png" | relative_url }})
-**Scale of our Research:** The size of the floor, footings, and concrete bags provides a sense of the scale MIT HAUS regularly operates at.
+**Scale of our Research:** The size of the floor, footings, and concrete bags provides a sense of the scale MIT HAUS regularly operates at. This image was taken during a loading test.
+
 ![MIT HAUS Curved]({{ "/assets/mit-haus-curved.png" | relative_url }})
-**Pushing Boundaries:** Use of curvature, trusses, and hierarchy allows us to leverage additive manufacturing to create robust yet lightweight structures.
+**Pushing Boundaries:** Use of curvature, trusses, and hierarchy allows us to leverage additive manufacturing to create robust yet lightweight structures. Simple FEA cases are verified by testing on small FDM models in light of the modeling challenges posed by the anisotropic nature of additively manufactured parts.
 
 ### Engineering Intern @ Radia, Inc. (_June 2024 - August 2024_)
 - Sized composite panels according to durability and deflection requirements while minimizing weight by creating a **MATLAB** model relating mass and deflection. Analyzed potential failure modes for composite panels reinforced by hat-stiffeners using hand calcs and relevant NACA literature.
@@ -37,21 +39,26 @@
 
 ![Clean Jet Engine]({{ "/assets/clean-jet-engine.jpg" | relative_url }})
 **All systems go?** The engine is almost ready to fire up, except for a missing battery to drive the ignition system.
+
 ![Fire Exhaust Jet Engine]({{ "/assets/jet-fire-exhaust.JPEG" | relative_url }})
 **Running Hot:** Excessive liquid propane and help from a leaf blower push the jet engine beyond its optimal operating range after a successful test earlier in the day.
+
 ![Fuel Injectors]({{ "/assets/fuel-injector.jpg" | relative_url }})
 **Injector Selection:** Four fuel injectors machined on a Bridgeport mill boast holes as small as 1/64". 
 
 ### Deep Sea Soil Sampler
 - Designed and constructed a mechanically activated and actuated sediment collector used at a depth of 11 km following the Five Deeps Expedition. Used aluminum linkages and pulleys to efficiently transfer spring energy to a sample collector where electronics and hydraulics would fail under the pressure.
 - Calculated pressure plate area and geometry to avoid premature triggering from shocks and descent in the water column. Tested different scoop designs and end-caps to maximize the sample volume captured and retained.
+
 ![Original Prototype Sampler]({{ "/assets/original-sampler.jpg" | relative_url }})
-**Foolproof Design:** Operating with a simple trigger and a cam, the first prototype was prone to misfiring upon dropping into the ocean but was otherwise reliable. This performance was satisfactory given that the consistency of the landing site was completely unknown at the time.
+**Surefire Design:** Operating with a simple trigger and a cam, the first prototype was prone to misfiring upon dropping into the ocean but was otherwise reliable. This performance was satisfactory given that the consistency of the landing site was completely unknown at the time.
 
 ![Challenger Deep Sample]({{ "/assets/challenger-deep-sample.jpg" | relative_url }})
 **Fast Turnaround:** This sample was in Texas within a month of us shipping out the first prototype, and taught us that the floor in the Mariana Trench was soft, informing the design for the next set of samplers.
+
 ![Soil Sampler Early]({{ "/assets/soil-sampler-early.jpg" | relative_url }})
 **Informed Design:** Better understanding the challenge of dropping into the ocean and descent, these samplers were calibrated in a pool to avoid misfires. The amount of material captured was also improved by the addition of relief vents in the back to allow water to flow through the snapping sampler claw.
+
 ![Soil Sampler Late]({{ "/assets/soil-sampler-late.jpg" | relative_url }})
 **Raising the bar:** The demand for stratified soil samples forced an abandonment of the claw mechanism and motivated a design that would push the sample collector perpendicular to the silt upon which it rested.
 
@@ -81,6 +88,7 @@
 - Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented in Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime and validated it against Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
 
 ![Shock Measurement Angles]({{ "/assets/ansys-validation.png" | relative_url }})
+**Geometric Agreement:** CFD models show very close alignment to analytical models that solve for shock angles by pressure equilibrium. Overall, analytical and CFD models show the same trends, except for the supersonic choking case, where analytical models fall short.
 
 ## Talks & Lectures
 - Guest Presentation: MIT HAUS First-of-Kind Prototypes - Dual Use Innovation Day, Spring 2025
