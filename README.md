@@ -150,14 +150,20 @@ I have also worked on developing a few automotive concepts, as shown below:
 ![Test Articles 1](/assets/Test Articles 1.JPEG)
 ![Test Articles 2](/assets/Test Articles 2.JPEG)
 ![Test Articles Envisioned](/assets/Test Articles Envisioned.png)
+![Baldwin Machine Pile Footing Test](Baldwin Test.JPEG) 
 
 ![Cooling Channel](/assets/Cooling Channel.png)
 ![Dual Pump CAD](/assets/Dual Pump CAD.png)
 
-![Vaporfly 2 Repair](V/assets/aporfly 2 Repair.JPEG)
+![PLA Molds for Burn Chamber](/assets/PLA Molds.JPEG)
+![V2 Burn Chamber and Cart](/assets/Jet Engine Early.JPEG)
+![Jet Engine Test Stand Welding](/assets/Jet Frame.JPEG)
+
+![Vaporfly 2 Repair](/assets/Vaporfly 2 Repair.JPEG)
 
 ![CC V2](/assets/CC V2.JPEG)
 ![CC V2 Idea](/assets/CC V2 Idea.JPEG)
+![Linear Filter Combos](/assets/Linear Filter Combos.JPEG)
 
 ![Soil Sampler Concept](/assets/Soil Sampler Concept.jpg)
 
