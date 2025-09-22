@@ -29,8 +29,8 @@
 Developed a ceramic matrix composite that could be manufactured at home and withstand 2000 °C. Molded the composite around 3D printed PLA forms for easy reproducibility and consistency between mating surfaces upon assembly. Milled different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan. Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
 <!-- insert pictures, descriptions here -->
 ![Clean Jet Engine](/assets/Clean Jet Engine.JPEG)
-![Fire Exhaust Jet Engine](IMG_4521 (1).JPEG)
-![Fuel Injectors](Fuel Injector.JPEG)
+![Fire Exhaust Jet Engine](/assets/IMG_4521 (1).JPEG)
+![Fuel Injectors](/assets/Fuel Injector.JPEG)
 
 ### Deep Sea Soil Sampler
 Designed and constructed a mechanically activated and actuated sediment collector used at a
@@ -48,8 +48,8 @@ manufacturing, navigating the challenge of uncertain achievable tolerances. Crea
 impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation.
 ![Pump Assembly](/assets/Pump Assembly 4.JPEG)
 ![Impeller CFD](/assets/Pumpal CFD.png)
-![Rotordynamics Test](Rotordynamics Lab 1.JPEG)
-![Impeller Photograph](AM Impeller.png)
+![Rotordynamics Test](/assets/Rotordynamics Lab 1.JPEG)
+![Impeller Photograph](/assets/AM Impeller.png)
 
 ### Satellite Design and Analysis
 Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a
@@ -64,7 +64,9 @@ mission.
 
 ### Canonical Heat Addition Case
 Produced a report discussing the canonical case of heat addition and removal from a stovepipe
-ramjet as part of Compressible Internal Flows coursework.
+ramjet as presented by Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation
+in the supersonic regime, as well as shock angles validated with Ansys.
+![Shock Measurement Angles](/assets/Ansys Validation.png)
 
 
 ## Talks & Lectures
@@ -87,9 +89,9 @@ ramjet as part of Compressible Internal Flows coursework.
 - Portable PSA-based hypoxicator and breathing system for altitude training on the go.
 - Replicate CO2 infusion from PET in PEBA for 3D printed shoe sole prototypes.
 
-![Hypoxicator Schematic](Hypoxicator Schematic.JPEG)
-![Spikes On Shoe](Spike Addition.JPEG)
-![Illustration of Sensitive Foot Areas](Shoe Ergonomics.JPG)
+![Hypoxicator Schematic](/assets/Hypoxicator Schematic.JPEG)
+![Spikes On Shoe](/assets/Spike Addition.JPEG)
+![Illustration of Sensitive Foot Areas](/assets/Shoe Ergonomics.JPG)
 
 Ask me about these or other ideas you may want to discuss.
 
@@ -99,38 +101,66 @@ Ask me about these or other ideas you may want to discuss.
 ## Other Projects
 I have also worked on developing a few automotive concepts, as shown below:
 
-![Istioforo 1](Istioforo 1.jpg)
-![Istioforo Concepts](Istioforo Concepts.jpg)
-![Mixed Istioforo Concept](Mixed Istioforo Concept.jpg)
-![Istioforo Lean](Istioforo Lean.jpg)
-![Istioforo Early](Istioforo Early.jpg)
-![Istioforo Cooling](Istioforo Cooling.jpg)
-![Istioforo Mixed](Istioforo Mixed.jpg)
-![Mixed Concepts](Mixed Concepts.jpg)
-![Testarossa Iteration](Testarossa Iteration.jpg)
-![Miura Lookalike](Miura Lookalike.jpg)
-![drkside design front view](drkside design front view.jpg)
-![drkside design rear view](drkside design rear view.jpg)
-![drkside design side view](drkside design side view.jpg)
-![drkside design top view](drkside design top view.jpg)
+![Istioforo 1](/assets/Istioforo 1.jpg)
+![Istioforo Concepts](/assets/Istioforo Concepts.jpg)
+![Mixed Istioforo Concept](/assets/Mixed Istioforo Concept.jpg)
+![Istioforo Lean](/assets/Istioforo Lean.jpg)
+![Istioforo Early](/assets/Istioforo Early.jpg)
+![Istioforo Cooling](/assets/Istioforo Cooling.jpg)
+![Istioforo Mixed](/assets/Istioforo Mixed.jpg)
+![Mixed Concepts](/assets/Mixed Concepts.jpg)
+![Amphibious Vehicle](/assets/Aquatic Vehicle.jpg)
+![Testarossa Iteration](/assets/Testarossa Iteration.jpg)
+![Miura Lookalike](/assets/Miura Lookalike.jpg)
+![drkside design front view](/assets/drkside design front view.jpg)
+![drkside design rear view](/assets/drkside design rear view.jpg)
+![drkside design side view](/assets/drkside design side view.jpg)
+![drkside design top view](/assets/drkside design top view.jpg)
 
 ### Artwork
 
-![Bugatti Chiron](Bugatti Chiron.jpg)
-![Ferrari 250 GTE](Ferrari 250 GTE.jpg)
+![Bugatti Chiron](/assets/Bugatti Chiron.jpg)
+![Ferrari 250 GTE](/assets/Ferrari 250 GTE.jpg)
 
-![McLaren in Marker](McLaren Marker.jpg)
-![Ferrari 330p4](Ferrari 330p4.jpg)
+![McLaren in Marker](/assets/McLaren Marker.jpg)
+![Ferrari 330p4](/assets/Ferrari 330p4.jpg)
 
-![Bugatti Painting](Bugatti Painting.jpg)
-![Aston Martin Whole](Aston Martin Whole.jpg)
-![Aston Partial](Aston Partial.jpg)
+![Bugatti Painting](/assets/Bugatti Painting.jpg)
+![Aston Martin Whole](/assets/Aston Martin Whole.jpg)
+![Aston Partial](/assets/Aston Partial.jpg)
 
-![St. Mark's Campus](StMarks Campus.jpg)
-![Violin Oil Painting](Violin in Oil.jpg)
-![Still Life](Miscellaneous 1.JPEG)
+![Hap Stern Comission](/assets/Hap Stern Commission.jpg)
+
+![St. Mark's Campus](/assets/StMarks Campus.jpg)
+![Violin Oil Painting](/assets/Violin in Oil.jpg)
+![Still Life](/assets/Miscellaneous 1.JPEG)
 
 
 ## Appendix
+![Solar Accumulator](/assets/Solar Accumulator.JPEG)
 
+![AM Stairs](/assets/AM Stairs.JPEG)
+![AM Trusses](/assets/AM Trusses.JPEG)
+![Anisotropic Considerations](/assets/Anisotropic Considerations.JPEG)
+![Aspect Ratio Layers](/assets/Aspect Ratio Layers.png)
+![CO2 Pressurizer 2](/assets/CO2 Pressurizer 2.JPEG)
+![Hydraulic Accumulator](/assets/Hydraulic Accumulator 1.JPEG)
+![BAAM Print 1](/assets/BAAM Print 1.JPEG)
+![Test Sample Arrangements](/assets/Test Sample Arrangements.JPEG)
+![Test Articles 1](/assets/Test Articles 1.JPEG)
+![Test Articles 2](/assets/Test Articles 2.JPEG)
+![Test Articles Envisioned](/assets/Test Articles Envisioned.png)
+
+![Cooling Channel](/assets/Cooling Channel.png)
+![Dual Pump CAD](/assets/Dual Pump CAD.png)
+
+![Vaporfly 2 Repair](V/assets/aporfly 2 Repair.JPEG)
+
+![CC V2](/assets/CC V2.JPEG)
+![CC V2 Idea](/assets/CC V2 Idea.JPEG)
+
+![Soil Sampler Concept](/assets/Soil Sampler Concept.jpg)
+
+![Casa Concept 1](/assets/Casa Concept 1.jpg)
+![Casa Concept 2]/assets/(Casa Concept 2.jpg)
 
