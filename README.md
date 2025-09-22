@@ -29,18 +29,24 @@
 Developed a ceramic matrix composite that could be manufactured at home and withstand 2000 °C. Molded the composite around 3D printed PLA forms for easy reproducibility and consistency between mating surfaces upon assembly. Milled different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan. Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
 <!-- insert pictures, descriptions here -->
 ![Clean Jet Engine](/assets/Clean Jet Engine.JPEG)
+![Fire Exhaust Jet Engine](IMG_4521 (1).JPEG)
 
 ### Deep Sea Soil Sampler
 Designed and constructed a mechanically activated and actuated sediment collector used at a
 depth of 11km for Victor Vescovo’s sea exploration. Used aluminum linkages and pulleys to efficiently transfer spring energy to
 a sample collector. Calculated pressure plate area and geometry to avoid premature triggering from shocks and descent in the water column. Tested different scoop designs and end-caps to maximize the sample
 volume captured and retained.
+![Challenger Deep Sample](/assets/Challenger Deep Sample.jpg)
+![Soil Sampler Early](/assets/Soil Sampler Early.jpg)
+![Soil Sampler Late](/assets/Soil Sampler Late.JPEG)
 <!-- insert pictures, descriptions here -->
 
 ### Dual Fluid Impeller System
 Designed a fluid impeller and casing for metal and polymer SLS
 manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the
-impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation. 
+impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation.
+![Pump Assembly](/assets/Pump Assembly 4.JPEG)
+![Impeller CFD](/assets/Pumpal CFD.PNG)
 
 ### Satellite Design and Analysis
 Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a
