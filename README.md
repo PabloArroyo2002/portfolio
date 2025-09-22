@@ -29,7 +29,7 @@
 Developed a ceramic matrix composite that could be manufactured at home and withstand 2000 °C. Molded the composite around 3D printed PLA forms for easy reproducibility and consistency between mating surfaces upon assembly. Milled different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan. Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
 
 ![Clean Jet Engine]({{ "/assets/clean-jet-engine.jpg" | relative_url }})
-![Fire Exhaust Jet Engine]({{ "/assets/img-4521-1.jpg" | relative_url }})
+![Fire Exhaust Jet Engine]({{ "/assets/jet-fire-exhaust.jpg" | relative_url }})
 ![Fuel Injectors]({{ "/assets/fuel-injector.jpg" | relative_url }})
 
 ### Deep Sea Soil Sampler
@@ -99,8 +99,8 @@ I have also worked on developing a few automotive concepts, as shown below:
 ![Istioforo Cooling]({{ "/assets/istioforo-cooling.jpg" | relative_url }})
 ![Istioforo Mixed]({{ "/assets/istioforo-mixed.jpg" | relative_url }})
 ![Mixed Concepts]({{ "/assets/mixed-concepts.jpg" | relative_url }})
-![Amphibious Vehicle]({{ "/assets/aquatic-vehicle.jpg" | relative_url }})
-![Testarossa Iteration]({{ "/assets/testarossa-iteration.jpg" | relative_url }})
+![Amphibious Vehicle]({{ "/assets/amphibious-vehicle.JPG" | relative_url }})
+![Testarossa Iteration]({{ "/assets/testarossa-iteration.JPG" | relative_url }})
 ![Miura Lookalike]({{ "/assets/miura-lookalike.jpg" | relative_url }})
 ![drkside design front view]({{ "/assets/drkside-design-front-view.jpg" | relative_url }})
 ![drkside design rear view]({{ "/assets/drkside-design-rear-view.jpg" | relative_url }})
@@ -113,8 +113,8 @@ I have also worked on developing a few automotive concepts, as shown below:
 ![McLaren in Marker]({{ "/assets/mclaren-marker.jpg" | relative_url }})
 ![Ferrari 330 P4]({{ "/assets/ferrari-330p4.jpg" | relative_url }})
 ![Bugatti Painting]({{ "/assets/bugatti-painting.jpg" | relative_url }})
-![Aston Martin Whole]({{ "/assets/aston-martin-whole.jpg" | relative_url }})
-![Aston Partial]({{ "/assets/aston-partial.jpg" | relative_url }})
+![Aston Martin Whole]({{ "/assets/aston-martin-whole.HEIC" | relative_url }})
+![Aston Partial]({{ "/assets/aston-partial.heic" | relative_url }})
 ![Hap Stern Commission]({{ "/assets/hap-stern-commission.jpg" | relative_url }})
 ![St. Mark's Campus]({{ "/assets/stmarks-campus.jpg" | relative_url }})
 ![Violin Oil Painting]({{ "/assets/violin-in-oil.jpg" | relative_url }})
