@@ -1,6 +1,4 @@
 title: Pablo Arroyo
 logo: /assets/profile-circle.png
-<p align="center">
-  description: Enjoying the view from MIT's cogeneration plant!
-</p>
+<p align="center">description: Enjoying the view from MIT's cogeneration plant! </p>
 theme: jekyll-theme-minimal
