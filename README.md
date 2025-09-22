@@ -12,15 +12,16 @@
 **Undergraduate Researcher @ MIT HAUS (_June 2023 - Present_)**
 - Designed, assembled, and succesfully implemented a CO2 pressurization system to create foaming pellets at a new scale for additive manufacturing.
 - Demonstrated viability of increasing layer height on pile footing prints as a means of reducing print time while maintaining satisfactory performance. [Publication](https://doi.org/10.1007/978-3-031-77697-7_16)
-- Reduced part the mass of a HUD compliant roof design by 30% by using SolidWorks FEA to validate new geometries.
+- Reduced part the mass of a HUD compliant roof design by 30% by using **SolidWorks FEA** to validate new geometries.
 - Assisted fellow undergraduate researchers in BAAM use and validated new print surfaces.
-- Compiled relevant ASTM and ISO standards for preliminary characterization of our BAAM 3D printer.
+- Compiled relevant **ASTM** and **ISO** standards for preliminary characterization of our BAAM 3D printer.
 <!-- insert pictures here -->
+![CO2 Infuser](/assets/CO2 Infusion System.jpeg)
 
 **Engineering Intern @ Radia, Inc. (_June 2024 - August 2024_)**
-- Sized composite panels according to durability and deflection requirements while minimizing weight by creating a MATLAB model relating mass and deflection. Analyzed half a dozen potential failure modes for composite panels reinforced by hat-stiffeners using hand calcs and relevant NACA literature.
+- Sized composite panels according to durability and deflection requirements while minimizing weight by creating a **MATLAB** model relating mass and deflection. Analyzed half a dozen potential failure modes for composite panels reinforced by hat-stiffeners using hand calcs and relevant NACA literature.
 - Proposed a new fairing design and substantiated it with drag impact calculations and analysis on manufacturability. Conducted a trade study to determine ideal panel dimensions subject to transportation, weight, and assembly considerations. Advocated for these and other key design decisions during weekly meetings with other stakeholders.
-- Made a CATIA model using 3DXPERIENCE for my team’s structural concept while allowing for interaction with adjacent aircraft systems.
+- Made a **CATIA** model using 3DXPERIENCE for my team’s structural concept while allowing for interaction with adjacent aircraft systems.
 
 ## Projects
 ### Home-Built Jet Engine
@@ -36,7 +37,7 @@ volume captured and retained.
 
 ### Dual Fluid Impeller System
 Designed a fluid impeller and casing for metal and polymer SLS
-manufacturing, navigating the challenge of uncertain achievable tolerances. Created engineering drawings for the
+manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the
 impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation. 
 
 ### Satellite Design and Analysis
