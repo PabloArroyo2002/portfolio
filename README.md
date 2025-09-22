@@ -27,21 +27,24 @@ ig# Aerospace Engineering Graduate
 
 ## Projects
 ### Home-Built Jet Engine
-Developed a ceramic matrix composite that could be manufactured at home and withstand 2000 °C. Molded the composite around 3D printed PLA forms for easy reproducibility and consistency between mating surfaces upon assembly. Milled different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan. Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
+- Developed a ceramic matrix composite that could be manufactured at home and withstand 2000 °C. Molded the composite around 3D printed PLA forms for easy reproducibility and consistency between mating surfaces upon assembly.
+- Milled different fuel injectors to allow for tuning between runs. Calculated areas for each stage of air addition and fuel injection to reduce exhaust temperatures and extend turbine lifespan.
+- Welded a test rig to hold the jet engine, a protective piece of acrylic and pressure and temperature gauges.
 
 ![Clean Jet Engine]({{ "/assets/clean-jet-engine.jpg" | relative_url }})
 ![Fire Exhaust Jet Engine]({{ "/assets/jet-fire-exhaust.JPEG" | relative_url }})
 ![Fuel Injectors]({{ "/assets/fuel-injector.jpg" | relative_url }})
 
 ### Deep Sea Soil Sampler
-Designed and constructed a mechanically activated and actuated sediment collector used at a depth of 11 km for Victor Vescovo’s sea exploration. Used aluminum linkages and pulleys to efficiently transfer spring energy to a sample collector. Calculated pressure plate area and geometry to avoid premature triggering from shocks and descent in the water column. Tested different scoop designs and end-caps to maximize the sample volume captured and retained.
+- Designed and constructed a mechanically activated and actuated sediment collector used at a depth of 11 km for Victor Vescovo’s sea exploration. Used aluminum linkages and pulleys to efficiently transfer spring energy to a sample collector.
+- Calculated pressure plate area and geometry to avoid premature triggering from shocks and descent in the water column. Tested different scoop designs and end-caps to maximize the sample volume captured and retained.
 
 ![Challenger Deep Sample]({{ "/assets/challenger-deep-sample.jpg" | relative_url }})
 ![Soil Sampler Early]({{ "/assets/soil-sampler-early.jpg" | relative_url }})
 ![Soil Sampler Late]({{ "/assets/soil-sampler-late.jpg" | relative_url }})
 
 ### Dual Fluid Impeller System
-Designed a fluid impeller and casing for metal and polymer SLS manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation. Used **CFD** to create an estimate of pressures and velocities for each impeller. 
+- Designed a fluid impeller and casing for metal and polymer SLS manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation. Used **CFD** to create an estimate of pressures and velocities for each impeller. 
 
 ![Pump Assembly]({{ "/assets/pump-assembly-4.jpg" | relative_url }})
 ![Impeller CFD]({{ "/assets/impeller-cfd.png" | relative_url }})
@@ -49,11 +52,11 @@ Designed a fluid impeller and casing for metal and polymer SLS manufacturing, na
 ![Impeller Photograph]({{ "/assets/am-impeller.png" | relative_url }})
 
 ### Satellite Design and Analysis
-Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. 
+- Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. 
 [Download the preliminary report]({{ "/assets/documents/16_83_Structures_final.pdf" | relative_url }})
 [Download the risk mitigation report]({{ "/assets/documents/Structures Slide Deck Risk Mitigation.pdf" | relative_url }})
 
-Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Designed a voltage divider and Arduino code to calculate the salinity of the water into which the probe is dropped by using spaced electrodes.
+- Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Designed a voltage divider and Arduino code to calculate the salinity of the water into which the probe is dropped by using spaced electrodes.
 [Download the report]({{ "/assets/documents/Proposal_for_Flight_Demonstration__Final_Draft.pdf" | relative_url }})
 
 ![George CAD]({{ "/assets/more-george.png" | relative_url }})
@@ -62,7 +65,7 @@ Also created a probe to measure the salinity of a pool into which the satellite 
 ![Probe Complete]({{ "/assets/83-probe-assembled.jpg" | relative_url }})
 
 ### Canonical Heat Addition Case
-Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented in Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime and validated it against Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
+- Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented in Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime and validated it against Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
 
 ![Shock Measurement Angles]({{ "/assets/ansys-validation.png" | relative_url }})
 
