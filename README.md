@@ -45,7 +45,7 @@ Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced
 composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools.
 
 ## Talks & Lectures
-- Guest Presentation: MIT HAUS Foundation - Dual Use Innovation Day, Spring 2025
+- Guest Presentation: MIT HAUS First-of-Kind Prototypes - Dual Use Innovation Day, Spring 2025
 <!-- insert pictures, descriptions here -->
 
 ## Potential Future Projects
