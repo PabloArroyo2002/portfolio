@@ -40,7 +40,7 @@ Designed and constructed a mechanically activated and actuated sediment collecto
 ![Soil Sampler Late]({{ "/assets/soil-sampler-late.jpg" | relative_url }})
 
 ### Dual Fluid Impeller System
-Designed a fluid impeller and casing for metal and polymer SLS manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation.
+Designed a fluid impeller and casing for metal and polymer SLS manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation. Used **CFD** to create an estimate of pressures and velocities for each impeller. 
 
 ![Pump Assembly]({{ "/assets/pump-assembly-4.jpg" | relative_url }})
 ![Impeller CFD]({{ "/assets/impeller-cfd.png" | relative_url }})
@@ -49,7 +49,7 @@ Designed a fluid impeller and casing for metal and polymer SLS manufacturing, na
 
 ### Satellite Design and Analysis
 Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using SolidWorks FEA tools. 
-Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Created a circuit to calculate the salinity of the water by using spaced electrodes as part of a voltage divider circuit.
+Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Designed a voltage divider and Arduino code to calculate the salinity of the water into which the probe is dropped by using spaced electrodes.
 ![George CAD]({{ "/assets/more-george.png" | relative_url }})
 ![George FEA]({{ "/assets/george-vibe-test.png" | relative_url }})
 ![Probe PCB]({{ "/assets/83-probe.jpg" | relative_url }})
