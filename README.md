@@ -30,6 +30,7 @@ Developed a ceramic matrix composite that could be manufactured at home and with
 <!-- insert pictures, descriptions here -->
 ![Clean Jet Engine](/assets/Clean Jet Engine.JPEG)
 ![Fire Exhaust Jet Engine](IMG_4521 (1).JPEG)
+![Fuel Injectors](Fuel Injector.JPEG)
 
 ### Deep Sea Soil Sampler
 Designed and constructed a mechanically activated and actuated sediment collector used at a
