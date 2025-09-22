@@ -18,7 +18,6 @@ ig# Aerospace Engineering Graduate
 
 ![CO2 Infuser]({{ "/assets/co2-infusion-system.jpg" | relative_url }})
 ![Demonstration of floor scale]({{ "/assets/scale-example-floor.png" | relative_url }})
-scale-example-floor.png
 ![MIT HAUS Curved]({{ "/assets/mit-haus-curved.png" | relative_url }})
 
 **Engineering Intern @ Radia, Inc. (_June 2024 - August 2024_)**
