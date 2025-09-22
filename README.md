@@ -46,7 +46,7 @@ Designed a fluid impeller and casing for metal and polymer SLS
 manufacturing, navigating the challenge of uncertain achievable tolerances. Created **engineering drawings** for the
 impeller and casings. Achieved the lowest leakage of all six teams in the class and avoided near-critical operation.
 ![Pump Assembly](/assets/Pump Assembly 4.JPEG)
-![Impeller CFD](/assets/Pumpal CFD.PNG)
+![Impeller CFD](/assets/Pumpal CFD.png)
 ![Rotordynamics Test](Rotordynamics Lab 1.JPEG)
 ![Impeller Photograph](AM Impeller.png)
 
@@ -58,6 +58,8 @@ created a probe to measure the salinity of a pool into which the satellite deplo
 mission.
 ![George CAD](/assets/More George.png)
 ![George FEA](/assets/George VIbe Test.png)
+![Probe PCB](/assets/83 Probe.JPEG)
+![Probe Complete](/assets/83 Probe Assembled.JPEG)
 
 ### Canonical Heat Addition Case
 Produced a report discussing the canonical case of heat addition and removal from a stovepipe
@@ -83,6 +85,7 @@ ramjet as part of Compressible Internal Flows coursework.
 **Athletics**
 - Portable PSA-based hypoxicator and breathing system for altitude training on the go.
 - Replicate CO2 infusion from PET in PEBA for 3D printed shoe sole prototypes.
+
 ![Hypoxicator Schematic](Hypoxicator Schematic.JPEG)
 ![Spikes On Shoe](Spike Addition.JPEG)
 ![Illustration of Sensitive Foot Areas](Shoe Ergonomics.JPG)
@@ -94,6 +97,7 @@ Ask me about these or other ideas you may want to discuss.
 
 ## Other Projects
 I have also worked on developing a few automotive concepts, as shown below:
+
 ![Istioforo 1](Istioforo 1.jpg)
 ![Istioforo Concepts](Istioforo Concepts.jpg)
 ![Mixed Istioforo Concept](Mixed Istioforo Concept.jpg)
@@ -108,7 +112,23 @@ I have also worked on developing a few automotive concepts, as shown below:
 ![drkside design rear view](drkside design rear view.jpg)
 ![drkside design side view](drkside design side view.jpg)
 ![drkside design top view](drkside design top view.jpg)
+
 ### Artwork
+
+![Bugatti Chiron](Bugatti Chiron.jpg)
+![Ferrari 250 GTE](Ferrari 250 GTE.jpg)
+
+![McLaren in Marker](McLaren Marker.jpg)
+![Ferrari 330p4](Ferrari 330p4.jpg)
+
+![Bugatti Painting](Bugatti Painting.jpg)
+![Aston Martin Whole](Aston Martin Whole.jpg)
+![Aston Partial](Aston Partial.jpg)
+
+![St. Mark's Campus](StMarks Campus.jpg)
+![Violin Oil Painting](Violin in Oil.jpg)
+![Still Life](Miscellaneous 1.JPEG)
+
 
 ## Appendix
 
