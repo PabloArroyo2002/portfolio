@@ -79,16 +79,23 @@
 
 ### Satellite Design and Analysis
 - Designed a fictional probe mission to Europa. Ensured the satellite packaging could fit within a Falcon Heavy fairing and survive the vibrational environment of takeoff. Reduced cantilevers and selected composites where appropriate to eliminate dangerous vibrational modes using **SolidWorks FEA** tools. 
-[Download the preliminary report]({{ "/assets/documents/16_83_Structures_final.pdf" | relative_url }})
-[Download the risk mitigation report]({{ "/assets/documents/Structures Slide Deck Risk Mitigation.pdf" | relative_url }})
+[Download the preliminary report]({{ "/assets/documents/16_83_Structures_final.pdf" | relative_url }}) or the
+[risk mitigation report]({{ "/assets/documents/Structures Slide Deck Risk Mitigation.pdf" | relative_url }})
+
+![George CAD]({{ "/assets/more-george.png" | relative_url }})
+**G.E.O.R.G.E. CAD Model** This model captures all of the scientific instruments, RTGs, and antennas needed for a successful mission. This model helped the other teams understand the scale of their components and to see how they would physically fit together; however this model does not reflect how the satellite will be launched.
+
+![George FEA]({{ "/assets/george-vibe-test.png" | relative_url }})
+**Simplified Model** This simple model captures the behavior of the satellite in its launch configuration, with fewer sensors and antennas deployed. The most sensitive component on launch is the composite parabolic antenna made for communication with the Earth.
 
 - Also created a probe to measure the salinity of a pool into which the satellite deploys, simulating a mock Europa mission. Designed a voltage divider and **Arduino** code to calculate the salinity of the water into which the probe is dropped by using spaced electrodes.
 [Download the report]({{ "/assets/documents/Proposal_for_Flight_Demonstration__Final_Draft.pdf" | relative_url }})
 
-![George CAD]({{ "/assets/more-george.png" | relative_url }})
-![George FEA]({{ "/assets/george-vibe-test.png" | relative_url }})
 ![Probe PCB]({{ "/assets/83-probe.jpg" | relative_url }})
+**Almost Ready** The perf board has all components soldered in and the salinity sensor is waterproofed. Sealing the whole probe proved a difficult task but was eventually accomplished with EVA glue after extensive testing. The ruggedizing Kevlar proved to be a poor choice in this application as it wicked water through the epoxy and glue used in sealing.
+
 ![Probe Complete]({{ "/assets/83-probe-assembled.jpg" | relative_url }})
+**Integration** The probe is tuned to the same frequency as the receiver on the main satellite, enabling communication up to the satellite and then to a laptop for data processing. Deployed the satellite via sensor fusion of a thermal camera detecting the cold salty water in the area of interest and a regular camera looking for fewer green pixels, as the trajectory of the satellite was mostly over grass. Detection was successful, but the probe failed to deploy on some late trials as the release mechanism seized.
 
 ### Canonical Heat Addition Case
 - Produced a report discussing the canonical case of heat addition and removal from a stovepipe ramjet as presented in Oswatitsch's _Gas Dynamics._ Created an analytical model for thrust generation in the supersonic regime and validated it against Ansys. [Download the paper]({{ "/16_120_Final_Project.pdf" | relative_url }})
@@ -116,8 +123,13 @@
 - Replicate CO₂ infusion from PET in PEBA for 3D printed shoe sole prototypes.
 
 ![Hypoxicator Schematic]({{ "/assets/hypoxicator-schematic.jpg" | relative_url }})
+**Compact vPSA** This early schematic shows a vacuum pressure swing absorption hypoxicator. A more mature design will forego the efficiency provided by the vacuum, given the importance of minimizing weight for long term comfort. Energy efficiency and component weight can be compared by using the energy density of COTS battery packs.
+
 ![Spikes On Shoe]({{ "/assets/spike-addition.jpg" | relative_url }})
+**Hybrid Running Shoe** Pre-2024 NCAA rules allowed for higher stack heights on the track. This weight could be justified for the steeplechase where the extra height reduces the energy cost of jumping barriers and maximum forces on the ground for athletes who are injury prone. Early trials showed that unsupported track spike holders would tear out given the high shear forces along the ground. Designed and prototyped a tough Kevlar plate to provide stiffness and a surface for attachment of spike holders. Rules have since been amended that make this shoe ineligible for competition in track, but there may still be a place for it for injury-prone athletes in cross country.
+
 ![Illustration of Sensitive Foot Areas]({{ "/assets/shoe-ergonomics.jpg" | relative_url }})
+**Comfort Priorities** Early reflections on shoe shape and identification of areas on the foot that are prone to calluses, bruises or are otherwise sensitive. There is a lot of room to improve on making more comfortable and fashionable footware.
 
 Ask me about these or other ideas you may want to discuss.
 
