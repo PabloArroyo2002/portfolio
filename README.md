@@ -142,7 +142,7 @@ Ask me about these or other ideas you may want to discuss.
 I have also worked on developing a few automotive concepts, as shown below:
 
 ![Istioforo 1]({{ "/assets/istioforo-1.jpg" | relative_url }})
-![Istioforo Concepts]({{ "/assets/istioforo-concepts.jpg" | relative_url }})
+![Istioforo Concepts]({{ "/assets/istioforo-concepts.JPG" | relative_url }})
 ![Mixed Istioforo Concept]({{ "/assets/mixed-istioforo-concepts.jpg" | relative_url }})
 ![Istioforo Lean]({{ "/assets/istioforo-lean.jpg" | relative_url }})
 ![Istioforo Early]({{ "/assets/istioforo-early.jpg" | relative_url }})
